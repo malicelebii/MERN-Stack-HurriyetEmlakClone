@@ -1,0 +1,14 @@
+#asd {
+  background-color: red;
+  margin: 24px 25px 25px 25px;
+}
+
+.tabu {
+  width: 70px;
+  height: 52px;
+  color: black;
+  border-radius: 0;
+}
+.tabu:hover {
+  text-decoration: none;
+}
